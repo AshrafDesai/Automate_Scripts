@@ -1,0 +1,1 @@
+wmic /namespace:\\root\OpenHardwareMonitor Path Sensor Where SensorType="Temperature" Get Value

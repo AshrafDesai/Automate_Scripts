@@ -1,0 +1,6 @@
+2024-03-06 14:27:06 - CPU temperature: 69.375
+33 °C
+2024-03-06 14:27:40 - CPU temperature: 69
+34 °C
+2024-03-06 14:28:45 - CPU temperature: 70.375
+34 °C

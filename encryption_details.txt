@@ -1,0 +1,10 @@
+File Name: task1.py
+File Path: D:\ZeroThreat\task1.py
+Encryption Date: 2024-03-06 10:38:32.441628
+Encryption Key: a-4tCUsmzq39jccg24KgonZ1EC0fSqGvARzXfX7ls1c=
+
+File Name: task4.py
+File Path: D:\ZeroThreat\task4.py
+Encryption Date: 2024-03-06 10:39:05.955702
+Encryption Key: T7MCWyc28w_cPA5P4mcqUpNJ_iqe-xO8gRVuBPed8FE=
+
